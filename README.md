@@ -28,3 +28,57 @@ This Project uses time series analysis and forecasting to make predictions for f
 ![image](https://user-images.githubusercontent.com/117705408/234462414-62f0f2f5-4bee-4db2-9bcf-4baf31c759e3.png)
 
 - The model is not perfect, but when i ran the diagnostics test, the errors it made seemed to be spread out in a way that's similar to how we expect them to be(normal distibution).
+
+# **Validating Forecasts**
+
+- To understand the accuracy of the forecasts, I compared predicted sales to real sales of the time series, and set forecasts to start at 2017–01–01 to the end of the data.
+- This line plot is showing the observed values compared to the rolling forecast predictions:
+
+![image](https://user-images.githubusercontent.com/117705408/234463108-a93cae9b-227c-45b5-a502-8fbf617b000e.png)
+
+- The predictions match the real results quite well as we can see above.
+- It shows that things have been getting better since the start of the year, and also take into account how things usually change at different times of the year(seasonality trends).
+
+# **Forecasting**
+
+![image](https://user-images.githubusercontent.com/117705408/234463605-6e7c0942-1b56-4027-a1b1-09ed4ca523d7.png)
+
+- This model accurately predicted when the furniture sales would increase or decrease during certain times of the year.
+- However, the further into the future the model predicts, the less integrity it holds in terms of its predictions being accurate.
+- The uncertainty is indicated by the range of values the model generates which grows larger the further into the future it makes predictions.
+
+- The above analysis strikes curiosity about the compairson between patterns in furniture sales and office supply sales.
+
+# **Time Series Analysis of Furniture Sales Vs. Office Supplies**
+
+![image](https://user-images.githubusercontent.com/117705408/234464831-7d2d0309-6df3-4419-a5d6-f0de0eb17c9d.png)
+
+- The furniture and office supplies sales have similar patterns throughout the year.
+- At the beginning of the year , sales are usually slower for both.
+- Sales for office supplies tend to look slower throughout the summer.
+- On average, furniture sales make more money than office supplies, which makes sense because of the higher cost.
+- There are days however, when office supplies sell more in a single day than furniture, and I want to discover when.
+
+# **Time Series Modeling with Prophet**
+
+- I chose to use Prophet because it has the advanced capability for modeling the effects of holidays on a time-series model.
+
+# **Visualization of Furniture Sales**
+
+![image](https://user-images.githubusercontent.com/117705408/234465948-5a04d0a1-1aed-4509-b5eb-609efddfaaf7.png)
+
+# **Visualization of Office Supplies Sales**
+
+![image](https://user-images.githubusercontent.com/117705408/234465972-9e1891f8-42aa-4175-aa9a-3fab5b08b96d.png)
+
+# **Comparing Forecasts**
+
+- As displayed above, I've created forecasts for three years for the two categories into the future.
+- Now I will join the two together to compare the future forecasts.
+ 
+![image](https://user-images.githubusercontent.com/117705408/234466262-4eb6bd5a-bc70-442e-93e6-843b651628e4.png)
+
+![image](https://user-images.githubusercontent.com/117705408/234466330-f53bc0bc-4eeb-4244-ac7f-388559c51476.png)
+
+![image](https://user-images.githubusercontent.com/117705408/234466346-09b12ed5-1f70-4232-ad1a-03afb70a1550.png)
+
