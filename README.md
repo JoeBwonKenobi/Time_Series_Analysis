@@ -12,7 +12,7 @@ This Project uses time series analysis and forecasting  with Python to make pred
 
 # **Visualization of the Time series decomposition**
 
-- Using this method, I can visualize the trends, seasonality, and noise within the data set.
+- Using this method, (Time-series decomposition)I can visualize the trends, seasonality, and noise within the data set.
 
 ![image](https://user-images.githubusercontent.com/117705408/234460931-882bb066-20da-4f7c-ace9-c80f1e7103c4.png)
 
