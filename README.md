@@ -78,7 +78,12 @@ This Project uses time series analysis and forecasting to make predictions for f
  
 ![image](https://user-images.githubusercontent.com/117705408/234466262-4eb6bd5a-bc70-442e-93e6-843b651628e4.png)
 
+- Sales for both categories have been increasing linearly over time and will likely keep growing, although the office supplies growth seems slightly higher.
+
 ![image](https://user-images.githubusercontent.com/117705408/234466330-f53bc0bc-4eeb-4244-ac7f-388559c51476.png)
+
+- The worst month for furniture is April, and the best looks like December. 
 
 ![image](https://user-images.githubusercontent.com/117705408/234466346-09b12ed5-1f70-4232-ad1a-03afb70a1550.png)
 
+- The best month for office supplies is October, the the worst month for office supplies is February.
