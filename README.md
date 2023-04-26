@@ -75,9 +75,12 @@ This Project uses time series analysis and forecasting to make predictions for f
 
 - As displayed above, I've created forecasts for three years for the two categories into the future.
 - Now I will join the two together to compare the future forecasts.
+
+# **Trend and Forecast Visualization**
  
 ![image](https://user-images.githubusercontent.com/117705408/234466262-4eb6bd5a-bc70-442e-93e6-843b651628e4.png)
 
+# ** Trends and Patterns**
 - Sales for both categories have been increasing linearly over time and will likely keep growing, although the office supplies growth seems slightly higher.
 
 ![image](https://user-images.githubusercontent.com/117705408/234466330-f53bc0bc-4eeb-4244-ac7f-388559c51476.png)
