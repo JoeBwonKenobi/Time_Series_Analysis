@@ -106,13 +106,15 @@ https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sa
 
 # **Recommendations:**
 
-- With the insights gained from above, the sales team could impliment a way to make more sales happen for the lower-selling months to help the number of sales go up.
 - The sales of furniture and office supplies have similar patterns throughout the year, with both experiencing slower sales at the beginning of the year and office supplies sales remaining slow throughout the summer.
 - On average, furniture sales generate more revenue than office supplies sales, likely due to the higher cost of furniture.
 - However, there are days when office supplies sell more in a single day than furniture, and identifying these days could help to increase revenue for the office supplies category.
 - The worst month for furniture sales is April, while the best month is December. This may be due to increased sales during the holiday season.
-- On the other hand, the best month for office supplies sales is October, while the worst month is February. 
-- This may be due to the timing of school semesters and tax season.
+- On the other hand, the best month for office supplies sales is October, while the worst month is February; this may be due to the timing of school semesters & tax season.
 - The analysis also shows that the sales of furniture are unstable, but the predictions match the real results quite well. This suggests that while the sales may fluctuate, the seasonality patterns remain relatively consistent.
 
 # **Limitations & Next Steps**
+
+- As expected, I'm limited to the data provided, meaning that the predictions made have a certain limit in potentail for accuracy. 
+- The next steps would be to obtain more recent data and compare the actual sales results to the predictions made.
+- The valuable insights obtained can assist the sales team in effectively implementing appropriate changes to leverage the identified seasonality patterns and trends.
