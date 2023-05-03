@@ -8,6 +8,9 @@ This Project uses time series analysis and forecasting  with Python to make pred
 
 https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
+# **Methods:**
+
+
 # **Visualizing Furniture Sales Time Series Data**
 
 ![image](https://user-images.githubusercontent.com/117705408/234460308-7919ebd8-aa40-4ef1-821e-db1da4b5e00c.png)
@@ -93,3 +96,7 @@ https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sa
 ![image](https://user-images.githubusercontent.com/117705408/234466346-09b12ed5-1f70-4232-ad1a-03afb70a1550.png)
 
 - The best month for office supplies is October, the the worst month for office supplies is February.
+
+# **Recommendations:**
+
+# **Limitations & Next Steps**
