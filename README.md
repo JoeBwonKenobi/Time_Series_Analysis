@@ -9,7 +9,12 @@ This Project uses time series analysis and forecasting  with Python to make pred
 https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
 # **Methods:**
-
+- For this project, I used time-series decomposition which is used to analyze a set of data that changes over time.
+- Specifically, this method helps to separate out three different patterns in the data: trends, seasonality, and noise.
+- Trends refer to long-term changes in the data, such as an overall increase or decrease over time. 
+- Seasonality refers to patterns that repeat at regular intervals, such as a yearly cycle of sales increasing during the holiday season. 
+- Noise refers to random fluctuations in the data that are unrelated to any underlying pattern.
+- By separating out these three components, the method can help us better understand how the data is changing over time and make predictions about its future behavior. - Additionally, visualizing these components can help us see the patterns more clearly and identify any unusual or unexpected changes in the data.
 
 # **Visualizing Furniture Sales Time Series Data**
 
