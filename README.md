@@ -14,7 +14,9 @@ https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sa
 - Trends refer to long-term changes in the data, such as an overall increase or decrease over time. 
 - Seasonality refers to patterns that repeat at regular intervals, such as a yearly cycle of sales increasing during the holiday season. 
 - Noise refers to random fluctuations in the data that are unrelated to any underlying pattern.
-- By separating out these three components, the method can help us better understand how the data is changing over time and make predictions about its future behavior. - Additionally, visualizing these components can help us see the patterns more clearly and identify any unusual or unexpected changes in the data.
+- By separating out these three components, the method can help us better understand how the data is changing over time and make predictions about its future behavior.
+- Additionally, visualizing these components can help us see the patterns more clearly and identify any unusual or unexpected changes in the data.
+- I chose to use Prophet because it has the advanced capability for modeling the effects of holidays on a time-series model.
 
 # **Visualizing Furniture Sales Time Series Data**
 
@@ -104,5 +106,13 @@ https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sa
 
 # **Recommendations:**
 
-- 
+- With the insights gained from above, the sales team could impliment a way to make more sales happen for the lower-selling months to help the number of sales go up.
+- The sales of furniture and office supplies have similar patterns throughout the year, with both experiencing slower sales at the beginning of the year and office supplies sales remaining slow throughout the summer.
+- On average, furniture sales generate more revenue than office supplies sales, likely due to the higher cost of furniture.
+- However, there are days when office supplies sell more in a single day than furniture, and identifying these days could help to increase revenue for the office supplies category.
+- The worst month for furniture sales is April, while the best month is December. This may be due to increased sales during the holiday season.
+- On the other hand, the best month for office supplies sales is October, while the worst month is February. 
+- This may be due to the timing of school semesters and tax season.
+- The analysis also shows that the sales of furniture are unstable, but the predictions match the real results quite well. This suggests that while the sales may fluctuate, the seasonality patterns remain relatively consistent.
+
 # **Limitations & Next Steps**
