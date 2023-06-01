@@ -1,5 +1,8 @@
 # **Time Series Analysis and Forecasting**
  
+ ![image](https://github.com/JoeBwonKenobi/Time_Series_Analysis/assets/117705408/0eec7c23-f5e6-4125-966c-26d384b2dc43)
+
+ 
 # **Project Overview:**
 
 This Project uses time series analysis and forecasting  with Python to make predictions for furniture sales data.
