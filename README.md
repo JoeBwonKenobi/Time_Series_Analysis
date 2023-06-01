@@ -106,7 +106,7 @@ https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sa
 
 - The best month for office supplies is October, the the worst month for office supplies is February.
 
-# **Recommendations:**
+# **Recommendations**
 
 - The sales of furniture and office supplies have similar patterns throughout the year, with both experiencing slower sales at the beginning of the year and office supplies sales remaining slow throughout the summer.
 - On average, furniture sales generate more revenue than office supplies sales, likely due to the higher cost of furniture.
