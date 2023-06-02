@@ -21,6 +21,10 @@ https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sa
 - Additionally, visualizing these components can help us see the patterns more clearly and identify any unusual or unexpected changes in the data.
 - I chose to use Prophet because it has the advanced capability for modeling the effects of holidays on a time-series model.
 
+Below is a link to the notebook which shows how i calculated the predictions of furniture sales:
+
+https://github.com/JoeBwonKenobi/Time_Series_Analysis/blob/main/Time_Series_Analysis_and_Forecasting_with_Python.ipynb
+
 # **Visualizing Furniture Sales Time Series Data**
 
 ![image](https://user-images.githubusercontent.com/117705408/234460308-7919ebd8-aa40-4ef1-821e-db1da4b5e00c.png)
