@@ -12,7 +12,7 @@ This Project uses time series analysis and forecasting  with Python to make pred
 https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
 # **Methods:**
-- For this project, I used time-series decomposition, which is used to analyze a set of data that changes over time.
+- For this project, I used a method called time-series decomposition, which is used to analyze a set of data that changes over time.
 - Specifically, this method helps to separate out three different patterns in the data: trends, seasonality, and noise.
 - Trends refer to long-term changes in the data, such as an overall increase or decrease over time.
 - Seasonality refers to patterns that repeat at regular intervals, such as a yearly cycle of sales increasing during the holiday season.
